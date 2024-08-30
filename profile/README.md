@@ -1,1 +1,2 @@
-![https://www.turbostarter.dev](https://www.turbostarter.dev/opengraph-image.png)
+[<img src="https://www.turbostarter.dev/opengraph-image.png">](https://www.turbostarter.dev)
+
