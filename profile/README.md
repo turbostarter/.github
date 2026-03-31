@@ -27,9 +27,9 @@
     <td align="center">
       <a href="https://www.turbostarter.dev/ai">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://www.turbostarter.dev/images/landing/ai/banner.png">
-          <source media="(prefers-color-scheme: light)" srcset="https://www.turbostarter.dev/images/landing/ai/banner-light.png">
-          <img alt="TurboStarter banner" src="https://www.turbostarter.dev/images/landing/ai/banner.png" width="420">
+          <source media="(prefers-color-scheme: dark)" srcset="https://www.turbostarter.dev/images/landing/ai/tile/dark.webp">
+          <source media="(prefers-color-scheme: light)" srcset="https://www.turbostarter.dev/images/landing/ai/tile/light.webp">
+          <img alt="TurboStarter banner" src="https://www.turbostarter.dev/images/landing/ai/tile/dark.webp" width="420">
         </picture>
       </a>
     </td>
@@ -54,9 +54,9 @@
      <td align="center">
       <a href="https://www.turbostarter.dev/openclaw">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://www.turbostarter.dev/images/landing/openclaw/banner.png">
-          <source media="(prefers-color-scheme: light)" srcset="https://www.turbostarter.dev/images/landing/openclaw/banner-light.png">
-          <img alt="TurboStarter banner" src="https://www.turbostarter.dev/images/landing/openclaw/banner.png" width="420">
+          <source media="(prefers-color-scheme: dark)" srcset="https://www.turbostarter.dev/images/landing/openclaw/tile/dark.webp">
+          <source media="(prefers-color-scheme: light)" srcset="https://www.turbostarter.dev/images/landing/openclaw/tile/light.webp">
+          <img alt="TurboStarter banner" src="https://www.turbostarter.dev/images/landing/openclaw/tile/light.webp" width="420">
         </picture>
       </a>
     </td>
