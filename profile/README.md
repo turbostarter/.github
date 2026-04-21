@@ -29,7 +29,43 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://www.turbostarter.dev/images/landing/ai/tile/dark.webp">
           <source media="(prefers-color-scheme: light)" srcset="https://www.turbostarter.dev/images/landing/ai/tile/light.webp">
-          <img alt="TurboStarter banner" src="https://www.turbostarter.dev/images/landing/ai/tile/dark.webp" width="420">
+          <img alt="TurboStarter AI banner" src="https://www.turbostarter.dev/images/landing/ai/tile/dark.webp" width="420">
+        </picture>
+      </a>
+    </td>
+  </tr>
+
+   <!-- Row 3: Labels -->
+  <tr>
+    <td align="center">
+      <strong>
+        <a href="https://loading-ui.com">⏳ Loading UI </a>
+      </strong>
+    </td>
+    <td align="center">
+      <strong>
+        <a href="https://www.turbostarter.dev">🌳 Envin </a>
+      </strong>
+    </td>
+  </tr>
+
+  <!-- Row 4: Images -->
+  <tr>
+     <td align="center">
+      <a href="https://loading-ui.com">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://loading-ui.com/images/banner.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://loading-ui.com/images/banner-light.png">
+          <img alt="Loading UI banner" src="https://envin.turbostarter.dev/images/banner.png">
+        </picture>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://envin.turbostarter.dev">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://envin.turbostarter.dev/images/banner.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://envin.turbostarter.dev/images/banner-light.png">
+          <img alt="Envin banner" src="https://envin.turbostarter.dev/images/banner.png">
         </picture>
       </a>
     </td>
@@ -44,7 +80,7 @@
     </td>
     <td align="center">
       <strong>
-        <a href="https://www.turbostarter.dev">🌳 Envin </a>
+        <a href="https://www.turbostarter.dev">🧩 Extro</a>
       </strong>
     </td>
   </tr>
@@ -60,27 +96,6 @@
         </picture>
       </a>
     </td>
-    <td align="center">
-      <a href="https://envin.turbostarter.dev">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://envin.turbostarter.dev/images/banner.png">
-          <source media="(prefers-color-scheme: light)" srcset="https://envin.turbostarter.dev/images/banner-light.png">
-          <img alt="TurboStarter banner" src="https://envin.turbostarter.dev/images/banner.png">
-        </picture>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <strong>
-        <a href="https://www.turbostarter.dev">🧩 Extro</a>
-      </strong>
-    </td>
-  </tr>
-
-  <!-- Row 4: Images -->
-  <tr>
     <td align="center">
       <a href="https://github.com/turbostarter/extro">
         <picture>
