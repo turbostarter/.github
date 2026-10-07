@@ -1,5 +1,4 @@
 <table>
-  <!-- Row 1: Labels -->
   <tr>
     <td align="center">
       <strong>
@@ -13,7 +12,6 @@
     </td>
   </tr>
 
-  <!-- Row 2: Images -->
   <tr>
     <td align="center">
       <a href="https://www.turbostarter.dev">
@@ -35,7 +33,42 @@
     </td>
   </tr>
 
-   <!-- Row 3: Labels -->
+  <tr>
+    <td align="center">
+      <strong>
+        <a href="https://www.turbostarter.dev/edge">🌐 Edge </a>
+      </strong>
+    </td>
+    <td align="center">
+      <strong>
+        <a href="https://www.turbostarter.dev/openclaw">🦞 OpenClaw </a>
+      </strong>
+    </td>
+  </tr>
+
+  <!-- Row 4: Images -->
+  <tr>
+     <td align="center">
+      <a href="https://www.turbostarter.dev/edge">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://www.turbostarter.dev/images/landing/edge/tile/dark.webp">
+          <source media="(prefers-color-scheme: light)" srcset="https://www.turbostarter.dev/images/landing/edge/tile/light.webp">
+          <img alt="TurboStarter banner" src="https://www.turbostarter.dev/images/landing/edge/tile/light.webp" width="420">
+        </picture>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.turbostarter.dev/openclaw">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://www.turbostarter.dev/images/landing/openclaw/tile/dark.webp">
+          <source media="(prefers-color-scheme: light)" srcset="https://www.turbostarter.dev/images/landing/openclaw/tile/light.webp">
+          <img alt="TurboStarter banner" src="https://www.turbostarter.dev/images/landing/openclaw/tile/light.webp" width="420">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  
+
   <tr>
     <td align="center">
       <strong>
@@ -49,7 +82,6 @@
     </td>
   </tr>
 
-  <!-- Row 4: Images -->
   <tr>
      <td align="center">
       <a href="https://loading-ui.com">
@@ -71,31 +103,16 @@
     </td>
   </tr>
 
-  <!-- Row 3: Labels -->
   <tr>
-    <td align="center">
-      <strong>
-        <a href="https://www.turbostarter.dev/openclaw">🦞 OpenClaw </a>
-      </strong>
-    </td>
     <td align="center">
       <strong>
         <a href="https://www.turbostarter.dev">🧩 Extro</a>
       </strong>
     </td>
+    <td></td>
   </tr>
 
-  <!-- Row 4: Images -->
   <tr>
-     <td align="center">
-      <a href="https://www.turbostarter.dev/openclaw">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://www.turbostarter.dev/images/landing/openclaw/tile/dark.webp">
-          <source media="(prefers-color-scheme: light)" srcset="https://www.turbostarter.dev/images/landing/openclaw/tile/light.webp">
-          <img alt="TurboStarter banner" src="https://www.turbostarter.dev/images/landing/openclaw/tile/light.webp" width="420">
-        </picture>
-      </a>
-    </td>
     <td align="center">
       <a href="https://github.com/turbostarter/extro">
         <picture>
@@ -105,6 +122,7 @@
         </picture>
       </a>
     </td>
+    <td></td>
   </tr>
 </table>
 
